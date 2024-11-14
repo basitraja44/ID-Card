@@ -30,6 +30,10 @@ h1{
     font-style: italic;
     color: aqua;
 }
+
+body{
+    height: 300vh;
+}
 .btn{
     display: flex;
    background-color: blueviolet;
@@ -45,4 +49,10 @@ button{
     gap: 1em;
     display: flex;
     justify-content: center;
+}
+.whatsapp{
+    position:fixed;
+    font-size: 150px;
+    left: 85%;
+    color: blue;
 }
